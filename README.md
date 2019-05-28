@@ -28,7 +28,7 @@ Twitter:
 - Google API client_secrets.json
 
 # Download
-- [YTLikedVideoTweeter-v1.0.jar](https://github.com/SimplyRin/YTLikedVideoTweeter/releases/1.0/YTLikedVideoTweeter-v1.0.jar)
+- [YTLikedVideoTweeter-v1.0.jar](https://github.com/SimplyRin/YTLikedVideoTweeter/releases/download/1.0/YTLikedVideoTweeter-v1.0.jar)
 
 # Open Source License
 **・[Config | Apache License 2.0](https://github.com/SimplyRin/Config/blob/master/LICENSE.md)**
