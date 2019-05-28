@@ -5,14 +5,21 @@ Linux などで使用する場合、先に認証を Windows 環境で済まし�
 
 - Config.yaml
 ```Yaml
-# 高評価リストを何分単位で確認するかを設定する
-Interval: 5
-Data:
+YouTube:
+  # 高評価リストを何分単位で確認するかを設定する
+  Update-Interval: 1
+
   # 以下のサイト(※1) にアクセスしてリダイレクトされた以下の部分(※2) をコピーして以下に貼り付け
   #
   # ※1: https://www.youtube.com/my_liked_videos
   # ※2: https://www.youtube.com/playlist?list=<この部分>
   Playlist-ID: LLoLLqIL88jUpp6Ned52u7mA
+Twitter:
+  # ツイートするテンプレート
+  Status: |-
+    I liked @YouTube video %%url%%
+    %%title%%
+
 ```
 
 # Requiresments
