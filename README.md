@@ -13,7 +13,7 @@ YouTube:
   #
   # ※1: https://www.youtube.com/my_liked_videos
   # ※2: https://www.youtube.com/playlist?list=<この部分>
-  Playlist-ID: LLoLLqIL88jUpp6Ned52u7mA
+  Playlist-ID: <here>
 Twitter:
   # ツイートするテンプレート
   Status: |-
